@@ -5,7 +5,10 @@ Ideally you want to run it on a terminal start.
 
 ## Usage
 
+Please use the devcontainer for the environment.
+
 ```bash
+cargo build
 birthday-reminder --help
 ```
 
